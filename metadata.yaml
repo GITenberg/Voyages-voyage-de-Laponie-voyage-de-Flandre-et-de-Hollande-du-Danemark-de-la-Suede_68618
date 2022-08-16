@@ -1,0 +1,42 @@
+_repo: Voyages-voyage-de-Laponie-voyage-de-Flandre-et-de-Hollande-du-Danemark-de-la-Suede_68618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Regnard, Jean-François
+    aliases:
+    - Regnard, Jean François
+    - Regnard, Jean-Francois
+    - F.R**T.D., Sieur
+    - R**T.D.F., Sieur
+    birthdate: 1655
+    deathdate: 1709
+    gutenberg_agent_id: '1551'
+    url: http://www.gutenberg.org/2009/agents/1551
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Regnard
+    - https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Regnard
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68618'
+language: fr
+pgterms:marc904: https://archive.org/details/voyages00regngoog
+pgterms:marc905: 20201101075335regnard
+pgterms:marc906: '1887'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: France :Librairie de la Bibliothèque nationale,1887.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe, Northern -- Description and travel'
+- !lcsh 'Lapland -- Description and travel'
+- !lcc 'PQ'
+- !lcc 'G'
+- GITenberg
+title: "Voyages\r\nvoyage de Laponie, voyage de Flandre et de Hollande, du Danemark,\
+  \ de la Suède"
+url: http://www.gutenberg.org/ebooks/68618
