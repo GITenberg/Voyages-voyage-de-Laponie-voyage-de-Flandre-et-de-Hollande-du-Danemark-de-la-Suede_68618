@@ -1,5 +1,8 @@
 _repo: Voyages-voyage-de-Laponie-voyage-de-Flandre-et-de-Hollande-du-Danemark-de-la-Suede_68618
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68618-h/images/cover.jpg
 creator:
   author:
     agent_name: Regnard, Jean-François
@@ -16,6 +19,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Regnard
     - https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Regnard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68618#Voyages-voyage-de-Laponie-voyage-de-Flandre-et-de-Hollande-du-Danemark-de-la-Suede
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68618'
